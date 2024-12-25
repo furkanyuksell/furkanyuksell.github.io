@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I love you too! 😘";
-  gif.src = "https://media.giphy.com/media/c76IJLufpNwSULPk77/giphy.gif";
+  gif.src = "https://media.licdn.com/dms/image/v2/D4D03AQFrckq7dV_TEQ/profile-displayphoto-shrink_800_800/B4DZPdgA9vHUAc-/0/1734587978244?e=1740614400&v=beta&t=fiYiX2zOY7YtziaHuXh1dj_cQob_fd9x7a3ogak97T4";
 });
 
 noBtn.addEventListener("mouseover", (event) => {
